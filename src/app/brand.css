@@ -1,0 +1,48 @@
+.brand {
+  gap: 14px;
+}
+
+.brand-logo {
+  width: 72px;
+  height: 72px;
+  object-fit: contain;
+}
+
+.brand > span {
+  font-size: 17px;
+  line-height: 0.82;
+}
+
+.brand > span small {
+  font-size: 10px;
+}
+
+.footer-brand {
+  display: inline-flex !important;
+  width: fit-content;
+  align-items: center;
+  gap: 16px !important;
+  opacity: 1 !important;
+}
+
+.footer-brand img {
+  width: 112px;
+  height: 112px;
+  object-fit: contain;
+}
+
+.footer-brand b {
+  margin: 0;
+  font-size: 15px;
+}
+
+@media (max-width: 800px) {
+  .brand-logo {
+    width: 58px;
+    height: 58px;
+  }
+
+  .brand > span {
+    font-size: 14px;
+  }
+}

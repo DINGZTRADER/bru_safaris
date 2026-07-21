@@ -6,6 +6,7 @@ import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
 import { site } from "@/content/site";
 import "./globals.css";
+import "./brand.css";
 
 const display = Cormorant_Garamond({ subsets: ["latin"], variable: "--font-display", weight: ["400", "500", "600"], display: "swap" });
 const sans = DM_Sans({ subsets: ["latin"], variable: "--font-sans", display: "swap" });
