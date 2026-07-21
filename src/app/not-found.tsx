@@ -1,0 +1,1 @@
+import Link from "next/link";export default function NotFound(){return <div className="page-hero"><p className="kicker">404 · Trail not found</p><h1>Let’s find another<br/><em>way forward.</em></h1><Link className="button" href="/">Return home →</Link></div>}
