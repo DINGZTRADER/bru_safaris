@@ -1,0 +1,1 @@
+export default function Page(){return <article className="page-hero"><p className="kicker">Legal</p><h1>Privacy policy</h1><p>This policy requires review by Bru-Safaris and qualified legal counsel before launch. Enquiry details are collected only to respond to travel requests and should be retained only as long as operationally and legally necessary.</p></article>}
