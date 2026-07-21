@@ -34,12 +34,12 @@ export type Tour = {
 };
 
 const images = {
-  gorilla: "/images/rwanda-hero.png",
-  savannah: "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=1800&q=88",
-  forest: "https://images.unsplash.com/photo-1511497584788-876760111969?auto=format&fit=crop&w=1800&q=88",
-  lake: "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1800&q=88",
-  elephant: "https://images.unsplash.com/photo-1557050543-4d5f4e07ef46?auto=format&fit=crop&w=1800&q=88",
-  plains: "https://images.unsplash.com/photo-1535338454770-8be927b5a00b?auto=format&fit=crop&w=1800&q=88",
+  gorilla: "/images/gorilla-trekking-volcanoes.png",
+  savannah: "/images/akagera-zebras.png",
+  forest: "/images/nyungwe-canopy-walk.png",
+  lake: "/images/lake-kivu-sunset.png",
+  elephant: "/images/rwanda-green-highlands.png",
+  plains: "/images/rwanda-crater-lake.png",
 };
 
 const included = ["Private 4x4 vehicle and professional English-speaking guide", "Accommodation and meals shown in the confirmed itinerary", "Park entry fees and scheduled activities", "Airport transfers and bottled drinking water"];
